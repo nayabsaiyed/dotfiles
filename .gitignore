@@ -1,0 +1,56 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Credentials & secrets
+.aws/
+.azure/
+.ssh/
+.gnupg/
+.netrc
+.npmrc
+.pypirc
+.claude.json
+.clawdbot/
+.openclaw/
+
+# Shell history
+.bash_history
+.zsh_history
+.zsh_sessions/
+.bash_sessions/
+
+# App caches & state
+.cache/
+.config/
+.local/
+.Trash/
+
+# Dev tool data
+.android/
+.gradle/
+.m2/
+.ivy2/
+.conda/
+.anaconda/
+.continuum/
+.gem/
+.node_repl_history
+.python_history
+.dbshell
+
+# IDEs
+.eclipse/
+.emacs.d/
+.vscode/
+.idea/
+
+# Misc junk
+*.padl
+*.png
+.babel.json
+.explorer.cache/
+.explorer.local/
+.fontconfig/
+.dropbox/
