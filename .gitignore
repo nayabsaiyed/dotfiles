@@ -27,6 +27,133 @@
 .local/
 .Trash/
 
+# macOS system dirs
+Library/
+Desktop/
+Documents/
+Downloads/
+Movies/
+Music/
+Pictures/
+Applications/
+Applications\ (Parallels)/
+
+# Cloud storage
+Dropbox/
+Google\ Drive/
+Google\ Drive_old/
+GoogleDrive/
+
+# Project directories (have their own repos)
+clawdbot/
+clawd/
+api/
+configserver/
+financial-aid-website/
+introcs/
+perf-tools/
+lib/
+bin/
+go/
+code/
+node_modules/
+
+# Tool config dirs
+.kube/
+.minikube/
+.terraform.d/
+.docker/
+.pm2/
+.npm/
+.ipython/
+.jupyter/
+.matplotlib/
+.vim/
+.vmware/
+.vnc/
+.subversion/
+.gitkraken/
+.gk/
+.oci/
+.putty/
+.pgadmin/
+.plotly/
+.qt/
+.vs-kubernetes/
+
+# Misc app dirs & files
+*.log
+*.ipynb
+*.xml
+*.txt
+*.htm
+*.html
+*.java
+*.tar
+*.tar.Z
+*.bin
+mbox
+config
+package-lock.json
+soapui-settings.xml
+default-soapui-workspace.xml
+oradiag_nayabs/
+NetBeansProjects/
+Sites/
+Incompatible\ Software/
+Logitech/
+MF\ App\ Server\ Runtime/
+
+# Remaining untracked dirs/files
+.MSP360/
+.MyMediaForAlexa/
+.angular-config.json
+.cups/
+.idlerc/
+.javafx/
+.keepassx/
+.mindterm/
+.nbprofiler/
+.netbeans/
+.node-gyp/
+.nx/
+.openjfx/
+.oracle_jre_usage/
+.pylint.d/
+.quokka/
+.ravello/
+.rest-client/
+.rstudio-desktop/
+.sqldeveloper/
+.terminator/
+.terminfo/
+.thinkorswim/
+.vscode-react-native/
+.vue-cli-ui/
+.vue-templates/
+.webex/
+.wireshark/
+.wireshark-etc/
+.yandex/
+.claude/
+12c_upgrade/
+52-109/
+GIS/
+OUBI2.4/
+Ansh's\ Birthday/
+Cogmation\ Robotics/
+Database\ Headers/
+Google\ Chrome.app/
+from_sarwat_card/
+mdm_install/
+python-bootcamp/
+ayan.sh
+binish.sh
+LightNotices_Help.pdf
+a
+*.bak
+.npmrc.bak.*
+
 # Dev tool data
 .android/
 .gradle/
@@ -54,3 +181,28 @@
 .explorer.local/
 .fontconfig/
 .dropbox/
+.serverauth.*
+.lesshst
+.sqlite_history
+.viminfo
+.Rhistory
+.rnd
+.Xauthority
+.recently-used.xbel
+.CFUserTextEncoding
+.mailcap
+.mime.types
+.make.log.swp
+.anyconnect
+.openvpn-connect.json
+.drjava
+.sqltools-setup
+.csp_ovftool_settings.js
+.BrowserLock/
+.branchio/
+.cisco/
+.dia/
+.dia-etc/
+.datastudio/
+*.bak
+*.pysave
